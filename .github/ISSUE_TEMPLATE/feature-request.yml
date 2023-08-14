@@ -1,0 +1,16 @@
+name: Feature request
+description: Explain your feature request
+title: ' '
+projects: ["kerhub/1"]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: clear explanation of the feature requested
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)
