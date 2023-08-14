@@ -1,6 +1,6 @@
 name: Feature request
 description: Explain your feature request
-title: ' '
+title: 'Feature: '
 projects: ["kerhub/1"]
 body:
   - type: textarea
